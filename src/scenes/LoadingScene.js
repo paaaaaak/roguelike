@@ -26,7 +26,7 @@ import growlOgg from "../assets/sounds/growl.ogg";
 import explosionOgg from "../assets/sounds/explosion.ogg";
 import hurtOgg from "../assets/sounds/hurt.ogg";
 import expUpOgg from "../assets/sounds/expUp.ogg";
-import nextLevelOgg from "../assets/sounds/nextLevel.ogg"
+import nextLevelOgg from "../assets/sounds/nextLevel.ogg";
 import gameOverOgg from "../assets/sounds/gameover.ogg";
 import gameClearOgg from "../assets/sounds/gameClear.ogg";
 import pauseInOgg from "../assets/sounds/pauseIn.ogg";
