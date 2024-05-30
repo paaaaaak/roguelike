@@ -54,7 +54,7 @@ export default class PlayingScene extends Phaser.Scene {
     this.m_background.setX(this.m_player.x - Config.width / 2);
     this.m_background.setY(this.m_player.y - Config.height / 2);
 
-    // // tilePosition을 player가 움직이는 만큼 이동시켜 마치 무한 배경인 것처럼 나타내 줍니다.
+    // tilePosition을 player가 움직이는 만큼 이동시켜 마치 무한 배경인 것처럼 나타내 줍니다.
     this.m_background.tilePositionX = this.m_player.x - Config.width / 2;
     this.m_background.tilePositionY = this.m_player.y - Config.height / 2;
   }
